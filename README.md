@@ -35,7 +35,7 @@ ___
 
 <strong>✏️ Study log</strong><br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0gydev&layout=compact)
+![Top Langs](https://velog.io/@ljh130334/posts)
 
 </div>
 
