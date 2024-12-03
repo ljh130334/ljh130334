@@ -68,7 +68,7 @@ ___
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@fr0gydev">
+  <a href="https://velog.io/@ljh130334">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:ljh130334@naver.com">
@@ -80,11 +80,11 @@ ___
 <br>
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ljh130334=anuraghazra&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fr0gydev&show_icons=true&theme=radical)
 </div>
 
 <br>
 
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ljh130334=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fr0gydev=anuraghazra&layout=compact)
 </div>
