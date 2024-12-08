@@ -7,7 +7,7 @@
 <div align="center">
 <strong>🤨 Introduce Myself</strong><br>
 <br>
-🏫 건국대학교에서 컴퓨터공학을 전공하며, 기술경영학과를 부전공하고 있습니다. <code>REACT</code>, <code>HTML</code>을 주로 공부하고 있습니다. <br>
+🏫 건국대학교에서 스마트ICT융합공학을 전공하며, 기술경영학과를 부전공하고 있습니다. <code>REACT</code>, <code>HTML</code>을 주로 공부하고 있습니다. <br>
 🍀 웹프로그래밍 동아리 <code>피로그래밍 21기</code>를 수료하고, <code>22기</code> 홍보팀장으로 운영 중입니다. <br>
 🌱 건국대학교 기획/개발 동아리 <code>KUIT 4기</code>에서 WEB 공부를 하고 있습니다.
 
