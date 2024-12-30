@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0BEC12&height=300&section=header&text=fr0gydev's%20GitHub&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0BEC12&height=300&section=header&text=fl0gydev's%20GitHub&fontSize=60" />
 </div>
 
 <div align="center">
