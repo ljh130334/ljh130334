@@ -1,10 +1,10 @@
 # Hi there 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0BEC12&height=300&section=header&text=fl0gydev's%20GitHub&fontSize=60" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0BEC12&height=300&section=header&text=fr0gydev's%20GitHub&fontSize=60" />
 </div>
 
-<div align="center">
+<div align="start">
 <strong>🤨 Introduce Myself</strong><br>
 <br>
 🏫 건국대학교에서 스마트ICT융합공학을 전공하며, 기술경영학과를 부전공하고 있습니다. <code>REACT</code>, <code>HTML</code>을 주로 공부하고 있습니다. <br>
