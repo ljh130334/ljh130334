@@ -29,7 +29,7 @@
 |------------|------|--------|
 | **❓블레이버스** | 미정 | [진행중](https://github.com/Bravers-Piro/Back) |
 | **💸내 장학금 알아보기** | 내 장학금 알아보기 프로젝트 | [진행중](https://github.com/Scholarzip-TF) |
-| **📍BARO** | 생성형 AI를 활용한 카드뉴스 자동 제작 서비스 | [진행중](https://github.com/KUIT-BARO) |
+| **📍BARO** | 모두가 만날 때 원하는 바로 | [진행중](https://github.com/KUIT-BARO) |
 | **🐮쿠잇소** | 건국대 학생을 위한 쉽고 안전한 중고거래 | [완료](https://github.com/CODE-NOVA-Team4) |
 | **📖피로체크** | 피로그래밍 동아리 부원들의 과제 결과 알려주는 웹/앱 서비스 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
 | **☕AAYO** | 단체 커피 메뉴 주문 시 효율적인 메뉴 취합을 도와주는 서비스 | [완료](https://github.com/shwnahn/aayo) |
