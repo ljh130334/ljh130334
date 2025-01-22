@@ -1,84 +1,48 @@
-# Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljh130334&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/ljh130334)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0BEC12&height=300&section=header&text=fr0gydev's%20GitHub&fontSize=60" />
-</div>
+## 👩🏻‍💻 About me 
+- **건국대학교** (Konkuk University) 
+- **스마트ICT융합공학전공** (Smart ICT Convergence)   
+- **기술경영학전공** (MOT)
 
-<div align="start">
-<strong>🤨 Introduce Myself</strong><br>
-<br>
-🏫 건국대학교에서 스마트ICT융합공학을 전공하며, 기술경영학과를 부전공하고 있습니다. <code>REACT</code>, <code>HTML</code>을 주로 공부하고 있습니다. <br>
-🍀 웹프로그래밍 동아리 <code>피로그래밍 21기</code>를 수료하고, <code>22기</code> 홍보팀장으로 운영 중입니다. <br>
-🌱 건국대학교 기획/개발 동아리 <code>KUIT 4기</code>에서 WEB 공부를 하고 있습니다. <br>
-📖 IT 동아리 <code>디프만 16기</code>에서 WEB 파트를 맡고 있습니다.
+## 📬 Contact
+- **Email**: [ljh130334@naver.com](mailto:ljh130334@naver.com) / [ljh130334@gmail.com](mailto:ljh130334@gmail.com)
+- **Github**: https://github.com/ljh130334
+- **Instagram**: @13ojh
+    
+## 🏆 수상 경력
+- `2024.10` 2024 탄소중립 아이디어 공모전 **장려상** 수상 (팀명: 뛰뛰)
+- `2024.10` 2024 친환경 에너지 아이디어 경진대회 **최우수상** 수상 (팀명: 뛰뛰)  
+- `2025.01` 2025 KUIT 4기 해커톤 Code Nova **최우수상** 수상(팀명: 쿠잇소)
 
-<br>
-___
-<br>
+## 🎓 Experience
+- **2024.06 ~ 2024.08  |**  웹 개발 연합 동아리 피로그래밍(PIROGRAMMING) 21기 수료
+- **2024.09 ~ 2024.10  |**  피로그래밍 서비스 개발 팀 피로니어(PIRONEER) 3기 수료
+- **2024.09 ~ 현재  |**  웹 개발 연합 동아리 피로그래밍 22기 홍보팀장
+- **2024.09 ~ 현재  |**  건국대학교 교내 IT 동아리 KUIT 4기 WEB 스터디장
+- **2024.09 ~ 현재  |**  주식회사 스칼라집 TF팀 프론트엔드
+- **2025.01 ~ 현재  |**  IT 동아리 디프만(DEPROMEET) 16기 WEB
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-</div>
+## 📃 프로젝트
 
-<div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div>
+| 프로젝트명 | 설명 | 깃허브 |
+|------------|------|--------|
+| **❓블레이버스** | 미정 | [진행중](https://github.com/Bravers-Piro/Back) |
+| **💸내 장학금 알아보기** | 내 장학금 알아보기 프로젝트 | [진행중](https://github.com/Scholarzip-TF) |
+| **📍BARO** | 생성형 AI를 활용한 카드뉴스 자동 제작 서비스 | [진행중](https://github.com/KUIT-BARO) |
+| **🐮쿠잇소** | 건국대 학생을 위한 쉽고 안전한 중고거래 | [완료](https://github.com/CODE-NOVA-Team4) |
+| **📖피로체크** | 피로그래밍 동아리 부원들의 과제 결과 알려주는 웹/앱 서비스 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
+| **☕AAYO** | 단체 커피 메뉴 주문 시 효율적인 메뉴 취합을 도와주는 서비스 | [완료](https://github.com/shwnahn/aayo) |
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/C-AFEEEE?style=for-the-badge&logo=C&logoColor=white" />&nbsp 
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" />&nbsp
-</div>
+## Statistics
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljh130334&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ljh130334&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljh130334&theme=react-dark&bg_color=20232a&hide_border=true&line=ffd700&color=ffd700" width=94%/>
+</a>
 
-<br>
 
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEAE-000000?style=for-the-badge&logo=EclipseIDE&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@ljh130334">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:ljh130334@naver.com">
-    <img
-      src="https://img.shields.io/badge/ljh130334@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljh130334&layout=compact&theme=radical">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ljh130334&show_icons=true&theme=radical">
-</div>
