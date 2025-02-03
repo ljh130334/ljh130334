@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About me 
 - **건국대학교** (Konkuk University) 
-- **컴퓨터공학전공** (COMPUTER SCIENCE AND ENGINEERING)   
+- **컴퓨터공학전공** (Computer Science and Engineering)   
 - **기술경영학전공** (MOT)
 
 ## 📬 Contact
