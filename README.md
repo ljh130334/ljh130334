@@ -2,7 +2,7 @@
 
 ## 👩🏻‍💻 About me 
 - **건국대학교** (Konkuk University) 
-- **스마트ICT융합공학전공** (Smart ICT Convergence)   
+- **컴퓨터공학전공** (COMPUTER SCIENCE AND ENGINEERING)   
 - **기술경영학전공** (MOT)
 
 ## 📬 Contact
