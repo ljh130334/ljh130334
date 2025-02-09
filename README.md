@@ -27,7 +27,7 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **❓블레이버스** | 미정 | [진행중](https://github.com/Bravers-Piro/Back) |
+| **💇🏻‍♀️블레이버스** | 헤어스타일 컨설팅 예약 서비스 | [진행중](https://github.com/Bravers-Piro/Back) |
 | **💸내 장학금 알아보기** | 내 장학금 알아보기 프로젝트 | [진행중](https://github.com/Scholarzip-TF) |
 | **📍BARO** | 모두가 만날 때 원하는 바로 | [진행중](https://github.com/KUIT-BARO) |
 | **🐮쿠잇소** | 건국대 학생을 위한 쉽고 안전한 중고거래 | [완료](https://github.com/CODE-NOVA-Team4) |
