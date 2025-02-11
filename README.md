@@ -27,17 +27,15 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **💇🏻‍♀️블레이버스** | 헤어스타일 컨설팅 예약 서비스 | [진행중](https://github.com/Bravers-Piro/Back) |
-| **💸내 장학금 알아보기** | 내 장학금 알아보기 프로젝트 | [진행중](https://github.com/Scholarzip-TF) |
-| **📍BARO** | 모두가 만날 때 원하는 바로 | [진행중](https://github.com/KUIT-BARO) |
-| **🐮쿠잇소** | 건국대 학생을 위한 쉽고 안전한 중고거래 | [완료](https://github.com/CODE-NOVA-Team4) |
+| **🏫KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [진행중](https://github.com/KU-rum/KU-ROOM-Web) |
+| **💇🏻‍♀️블레이버스** | 헤어스타일 컨설팅 예약 서비스 | [진행중](https://github.com/blaybus-piro/BlayBus-Piro-Web) |
+| **💸내 장학금 알아보기** | 내 장학금 알아보기 프로젝트 | [진행중](https://github.com/Scholarzip-TF/janghakmoney-front) |
+| **📍BARO** | 모두가 만날 때 원하는 바로 | [진행중](https://github.com/KUIT-BARO/BARO-FRONTEND) |
+| **🐮쿠잇소** | 건국대 학생을 위한 쉽고 안전한 중고거래 | [완료](https://github.com/CODE-NOVA-Team4/CODE-NOVA-Team4_WEB) |
 | **📖피로체크** | 피로그래밍 동아리 부원들의 과제 결과 알려주는 웹/앱 서비스 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
 | **☕AAYO** | 단체 커피 메뉴 주문 시 효율적인 메뉴 취합을 도와주는 서비스 | [완료](https://github.com/shwnahn/aayo) |
 
 ## Statistics
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljh130334&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-</a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ljh130334&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width=56% />
 </a>
