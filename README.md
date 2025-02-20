@@ -30,9 +30,9 @@
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
 | **🏫KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [진행중](https://github.com/KU-rum/KU-ROOM-Web) |
-| **💸내 장학금 알아보기** | 내 장학금 알아보기 프로젝트 | [진행중](https://github.com/Scholarzip-TF/janghakmoney-front) |
 | **📍BARO** | 모두가 만날 때 원하는 바로 | [진행중](https://github.com/KUIT-BARO/BARO-FRONTEND) |
 | **💇🏻‍♀️블레이버스** | 헤어스타일 컨설팅 예약 서비스 | [완료](https://github.com/blaybus-piro/Blaybus-Haertz-Web) |
+| **💸내 장학금 알아보기** | 내 장학금 알아보기 프로젝트 | [완료](https://github.com/Scholarzip-TF/janghakmoney-front) |
 | **🐮쿠잇소** | 건국대 학생을 위한 쉽고 안전한 중고거래 | [완료](https://github.com/CODE-NOVA-Team4/CODE-NOVA-Team4_WEB) |
 | **📖피로체크** | 피로그래밍 동아리 부원들의 과제 결과 알려주는 웹/앱 서비스 | [완료](https://github.com/Pironeer-APP/Pironeer_Homework_Web) |
 | **☕AAYO** | 단체 커피 메뉴 주문 시 효율적인 메뉴 취합을 도와주는 서비스 | [완료](https://github.com/shwnahn/aayo) |
