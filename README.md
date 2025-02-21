@@ -29,6 +29,7 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
+| **⏰SPURT** | 미루는 당신을 위한 마지막 스퍼트 | [진행중](https://github.com/depromeet/16th-team3-FE) |
 | **🏫KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [진행중](https://github.com/KU-rum/KU-ROOM-Web) |
 | **📍BARO** | 모두가 만날 때 원하는 바로 | [진행중](https://github.com/KUIT-BARO/BARO-FRONTEND) |
 | **💇🏻‍♀️블레이버스** | 헤어스타일 컨설팅 예약 서비스 | [완료](https://github.com/blaybus-piro/Blaybus-Haertz-Web) |
