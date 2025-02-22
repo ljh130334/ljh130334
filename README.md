@@ -20,7 +20,7 @@
 - **2024.06 ~ 2024.08  |**  웹 개발 연합 동아리 피로그래밍(PIROGRAMMING) 21기 수료
 - **2024.09 ~ 2024.10  |**  피로그래밍 서비스 개발 팀 피로니어(PIRONEER) 3기 수료
 - **2024.09 ~ 2025.02  |**  웹 개발 연합 동아리 피로그래밍 22기 홍보팀장
-- **2024.09 ~ 2025.02  |**  건국대학교 교내 IT 동아리 KUIT 4기 WEB 스터디장
+- **2024.09 ~ 2025.02  |**  건국대학교 교내 IT 동아리 KUIT 4기 WEB 수료
 - **2024.09 ~ 현재  |**  주식회사 스칼라집 TF팀 프론트엔드
 - **2025.01 ~ 현재  |**  IT 동아리 디프만(DEPROMEET) 16기 WEB
 - **2025.02 ~ 현재  |**  구름톤 유니브 4기 건국대학교(서울) 대표
@@ -31,7 +31,7 @@
 |------------|------|--------|
 | **⏰ SPURT** | 미루는 당신을 위한 마지막 스퍼트 | [진행중](https://github.com/depromeet/16th-team3-FE) |
 | **🏫 KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [진행중](https://github.com/KU-rum/KU-ROOM-Web) |
-| **📍 BARO** | 모두가 만날 때 원하는 바로 | [진행중](https://github.com/KUIT-BARO/BARO-FRONTEND) |
+| **📍 BARO** | 모두가 만날 때 원하는 바로 | [완료](https://github.com/KUIT-BARO/BARO-FRONTEND) |
 | **💇🏻‍♀️ 블레이버스** | 헤어스타일 컨설팅 예약 서비스 | [완료](https://github.com/blaybus-piro/Blaybus-Haertz-Web) |
 | **💸 내 장학금 알아보기** | 내 장학금 알아보기 프로젝트 | [완료](https://github.com/Scholarzip-TF/janghakmoney-front) |
 | **🐮 쿠잇소** | 건국대 학생을 위한 쉽고 안전한 중고거래 | [완료](https://github.com/CODE-NOVA-Team4/CODE-NOVA-Team4_WEB) |
