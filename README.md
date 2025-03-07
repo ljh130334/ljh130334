@@ -3,7 +3,7 @@
 ## 👩🏻‍💻 About me 
 - **건국대학교** (Konkuk University) 
 - **컴퓨터공학전공** (Computer Science and Engineering)   
-- **기술경영학전공** (MOT)
+- **기술경영학전공** (Management of Technology)
 
 ## 📬 Contact
 - **Email**: [ljh130334@naver.com](mailto:ljh130334@naver.com) / [ljh130334@gmail.com](mailto:ljh130334@gmail.com)
