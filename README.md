@@ -40,6 +40,9 @@
 
 ## Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ljh130334&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ljh130334&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
