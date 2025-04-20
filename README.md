@@ -40,15 +40,14 @@
 
 ## Statistics 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=ljh130334&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=ljh130334&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width=50% />
 </a>
 
 <div>
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/ljh130334"
-      width="400"
-      height="300"
+      width="50%"
     />
   </a>
 </div>
