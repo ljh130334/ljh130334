@@ -39,10 +39,10 @@
 | **☕ AAYO** | 단체 커피 메뉴 주문 시 효율적인 메뉴 취합을 도와주는 서비스 | [완료](https://github.com/shwnahn/aayo) |
 
 ## Statistics 
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ljh130334&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width=50% />
 </a>
-
 <div>
   <a href="https://github.com/devxb/gitanimals">
     <img
@@ -51,4 +51,4 @@
     />
   </a>
 </div>
-
+</div>
