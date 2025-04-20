@@ -46,4 +46,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljh130334&theme=react-dark&bg_color=20232a&hide_border=true&line=ffd700&color=ffd700" width=94%/>
 </a>
 
+<div>
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/ljh130334"
+      width="400"
+      height="300"
+    />
+  </a>
+</div>
 
