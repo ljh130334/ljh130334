@@ -8,7 +8,6 @@
 ## 📬 Contact
 - **Email**: [ljh130334@naver.com](mailto:ljh130334@naver.com) / [ljh130334@gmail.com](mailto:ljh130334@gmail.com)
 - **Github**: https://github.com/ljh130334
-- **Instagram**: @13ojh
 - **Portfolio**: https://sunset-thyme-ab3.notion.site/1539fae2dd7c8051b11dc510a398a6e6
     
 ## 🏆 수상 경력
