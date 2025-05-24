@@ -11,6 +11,7 @@
 - **Portfolio**: https://sunset-thyme-ab3.notion.site/1539fae2dd7c8051b11dc510a398a6e6
     
 ## 🏆 수상 경력 
+- `2025.05` 2025 DND 해커톤 **2등상** 수상 (팀명: TeamPlay)
 - `2025.02` 2025 블레이버스 MVP 개발 해커톤 **테크 인사이트상** 수상 (팀명: 헤어색chill..)
 - `2025.01` 2025 KUIT 4기 해커톤 Code Nova **최우수상** 수상 (팀명: 쿠잇소)
 - `2024.10` 2024 친환경 에너지 아이디어 경진대회 **최우수상** 수상 (팀명: 뛰뛰) 
@@ -30,9 +31,9 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **👾 DND 해커톤** | DND HACKATHON | [진행중](https://github.com/DND-HACKATON/frontend) |
 | **📚 THIP** | 띱! 하고 떠오른 그 문장을 나눠요 | [진행중](https://github.com/THIP-TextHip/THIP-Web.git) |
 | **🏫 KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [진행중](https://github.com/KU-rum/KU-ROOM-Web) |
+| **👾 똑똑!** | 어르신 AI 케어콜 서비스 | [완료](https://github.com/DND-HACKATON/frontend) |
 | **⏰ SPURT** | 미루는 당신을 위한 마지막 스퍼트 | [완료](https://github.com/depromeet/16th-team3-FE) |
 | **📍 BARO** | 모두가 만날 때 원하는 바로 | [완료](https://github.com/KUIT-BARO/BARO-FRONTEND) |
 | **💇🏻‍♀️ 블레이버스** | 헤어스타일 컨설팅 예약 서비스 | [완료](https://github.com/blaybus-piro/Blaybus-Haertz-Web) |
