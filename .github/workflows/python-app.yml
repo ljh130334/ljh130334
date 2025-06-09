@@ -18,6 +18,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.PAT_TOKEN }}
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -33,8 +35,7 @@ jobs:
       run: | 
         git pull
         git add .
-        git diff
         git config --local user.email "ljh130334@naver.com"
         git config --local user.name "ljh130334"
-        git commit -m "Update README.me"
+        git commit -m "Update README.md" || exit 0
         git push
