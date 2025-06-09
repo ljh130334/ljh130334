@@ -51,3 +51,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ljh130334&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=ffd700&text_color=fff&title_color=ffd700&count_private=true" width="49%" />
   </a>
 </div>
+
+## ✅ Latest Blog Post
+[2025/05/30 - [PIROGRAMMING] 21기 서류 합격 및 최종 합격 후기](https://fl0gydev.tistory.com/1) <br/>
