@@ -13,7 +13,7 @@ except FileNotFoundError:
 
 # 블로그 포스트 섹션 생성
 blog_section = """
-## ✅ Latest Blog Post
+## Latest Blog Post
 """
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx >= MAX_POST:
@@ -23,7 +23,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         blog_section += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
 
 # 기존 블로그 섹션이 있는지 확인하고 교체 또는 추가
-start_marker = "## ✅ Latest Blog Post"
+start_marker = "## Latest Blog Post"
 if start_marker in existing_content:
     # 기존 블로그 섹션 찾아서 교체
     lines = existing_content.split('\n')
