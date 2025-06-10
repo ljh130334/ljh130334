@@ -51,6 +51,7 @@
 </div>
 
 ## Latest Blog Post
+[2025/06/10 - [자료구조] Tree (3): 이진 트리(Binary Tree) 완벽 정리](https://fl0gydev.tistory.com/4) <br/>
 [2025/06/10 - [자료구조] Tree (2): 트리 관련 용어 정리](https://fl0gydev.tistory.com/3) <br/>
 [2025/06/09 - [자료구조] Tree (1): 트리란 무엇인가?](https://fl0gydev.tistory.com/2) <br/>
 [2025/05/30 - [PIROGRAMMING] 21기 서류 합격 및 최종 합격 후기](https://fl0gydev.tistory.com/1) <br/>
