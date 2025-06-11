@@ -50,8 +50,7 @@
 </div>
 
 ## Latest Blog Post
-[2025/06/11 - 구글 캘린더 Clone 프로젝트 개발 기록 - Create React App에서 Tailwind CSS 설정 시 PostCSS 오류 해결기](https://fl0gydev.tistory.com/6) <br/>
-[2025/06/11 - 구글 캘린더 Clone 프로젝트 개발 기록 - 1. 초기 설정](https://fl0gydev.tistory.com/5) <br/>
+[2025/06/11 - 구글 캘린더 클론 개발기 1편: 초기 설정과 개발 환경 구축](https://fl0gydev.tistory.com/7) <br/>
 [2025/06/10 - [자료구조] Tree (3): 이진 트리(Binary Tree) 완벽 정리](https://fl0gydev.tistory.com/4) <br/>
 [2025/06/10 - [자료구조] Tree (2): 트리 관련 용어 정리](https://fl0gydev.tistory.com/3) <br/>
 [2025/06/09 - [자료구조] Tree (1): 트리란 무엇인가?](https://fl0gydev.tistory.com/2) <br/>
