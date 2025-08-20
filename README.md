@@ -10,7 +10,7 @@
 - **Portfolio**: https://sunset-thyme-ab3.notion.site/1539fae2dd7c8051b11dc510a398a6e6
 
 ## 🌳 Career
-- **`2025.08 ~ 현재`  |**  (주)바이옴에이츠 Frontend Intern
+- **`2025.08 ~ 현재`  |**  (주)바이옴에이츠 Web Frontend Intern
 
 ## 🎓 Experience
 - **`2025.02 ~ 현재`  |**  구름톤 유니브 4기 건국대학교(서울) 대표
