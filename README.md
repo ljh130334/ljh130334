@@ -3,7 +3,6 @@
 ## 👩🏻‍💻 WEB FRONTEND DEVELOPER, 이지현이에요. 반갑습니다!
 - **건국대학교** (Konkuk University) 
 - **컴퓨터공학 전공** (Computer Science and Engineering)   
-- **기술경영학 부전공** (Management of Technology)
 
 ## 📬 Contact
 - **Email**: [ljh130334@naver.com](mailto:ljh130334@naver.com) / [ljh130334@gmail.com](mailto:ljh130334@gmail.com)
