@@ -11,7 +11,10 @@
 - **Portfolio**: https://sunset-thyme-ab3.notion.site/1539fae2dd7c8051b11dc510a398a6e6
 
 ## 🌳 Career
-- **`2025.08 ~ 현재`  |**  (주)바이옴에이츠 Web Frontend Developer Intern
+- **`2025.08 ~ 2026.02`  |**  (주)바이옴에이츠 Web Frontend Developer Intern
+
+## 🪪 Certificate
+- **`2026.03`** SQLD
 
 ## 🎓 Experience
 - **`2025.05 ~ 2025.11`  |**  IT 동아리 디프만(DEPROMEET) 17기 Manager
@@ -34,7 +37,7 @@
 
 | 프로젝트명 | 설명 | 깃허브 |
 |------------|------|--------|
-| **🏫 KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [진행중](https://github.com/KU-rum/KU-ROOM-Web) |
+| **🏫 KU:ROOM** | 건국대학교 맞춤형 대학 생활 가이드 | [완료](https://github.com/KU-rum/KU-ROOM-Web) |
 | **📚 THIP** | 띱! 하고 떠오른 그 문장을 나눠요 | [완료](https://github.com/THIP-TextHip/THIP-Web.git) |
 | **🤙🏻 똑똑!** | 어르신 AI 케어콜 서비스 | [완료](https://github.com/DND-HACKATON/frontend) |
 | **⏰ SPURT** | 미루는 당신을 위한 마지막 스퍼트 | [완료](https://github.com/depromeet/16th-team3-FE) |
