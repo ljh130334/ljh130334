@@ -17,7 +17,7 @@
 - **`2026.03`** SQLD
 - **`2026.03`** TOEIC 855
 - **`2026.09`** 정보처리기사
-- **`2026.09`** TOEIC Speaking Advanced Low
+- **`2026.09`** TOEIC Speaking Advanced Low (170)
 
 ## 🎓 Experience
 - **`2025.05 ~ 2025.11`  |**  IT 동아리 디프만(DEPROMEET) 17기 Manager
